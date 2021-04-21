@@ -26,10 +26,10 @@ Det kommer til å bli jobbet med dette prosjektet i automasjonstimene mandager o
 Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. De vi fant ut av var:
 
 •	Dokumentasjonen: Ultrasonic Distance Sensor Bracket – 70754 – 1 – 2...
-	Endring: PING Ultrasonic Distance Sensor Bracket – 40238 – 1 – 2.
+ *Endring: PING Ultrasonic Distance Sensor Bracket – 40238 – 1 – 2.
 
 •	Sto: Cobra Line Follower Sensor – 70151 – 1 – 1...
-	Endring: ingenting
+ * Endring: ingenting
 
 
 ### 21.04.2021
