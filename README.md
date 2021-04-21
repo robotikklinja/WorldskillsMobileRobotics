@@ -8,6 +8,10 @@ Worldskills Mobile Robotics Shanghai 2022
 
 #### Bilder
 ![alt text](https://github.com/EirikH1705/WorldskillsMobileRobotics/blob/main/IMG/176525151_936405260452922_8281290664893907598_n.jpg "Toplokk 1")
+![alt text](https://github.com/EirikH1705/WorldskillsMobileRobotics/blob/main/IMG/176077984_480108179851399_5740194681662715591_n.jpg "Toplokk 2")
+![alt text](https://github.com/EirikH1705/WorldskillsMobileRobotics/blob/main/IMG/176200386_2168881989921180_2974645728222666901_n.jpg "Boks, del 1")
+![alt text](https://github.com/EirikH1705/WorldskillsMobileRobotics/blob/main/IMG/175999370_966451084124103_4643823718307146928_n.jpg "Boks, del 2")
+![alt text](https://github.com/EirikH1705/WorldskillsMobileRobotics/blob/main/IMG/176453869_144873290918450_7646095588616130850_n.jpg "Boks, del 3")
 
 ## Logg
 
