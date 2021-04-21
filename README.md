@@ -6,6 +6,8 @@ Worldskills Mobile Robotics Shanghai 2022
 ### Deler
 [Worldskills Mobile Robotics](https://www.studica.co/worldskills-mobile-robotics-collection-shanghai-2022)
 
+#### Bilder
+![alt text](https://github.com/WorldskillsMobileRobotics/IMG/176525151_936405260452922_8281290664893907598_n.jpg "Toplokk 1")
 
 ## Logg
 
