@@ -1,7 +1,15 @@
 # WorldskillsMobileRobotics
 Worldskills Mobile Robotics Shanghai 2022
 
-## Log
+## Arbeidsbeskrivelse
+
+### Deler
+[Worldskills Mobile Robotics](https://www.studica.co/worldskills-mobile-robotics-collection-shanghai-2022)
+
+
+## Logg
+
+Det kommer til å bli jobbet med dette prosjektet i automasjonstimene mandager og onsdager. Tirsdag 27 april, torsdag 29 april, tirsdag 4 mai og torsdag 6 mai, kl 13:00 - 16:00 kommer vi til å følge et kurs over zoom. 
 
 ### 19.04.21
 Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. De vi fant ut av var:
