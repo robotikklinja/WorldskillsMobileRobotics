@@ -40,7 +40,7 @@ Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. D
 Vi lastet ned filene fra USB-brikken. 
 
 =======
-
+=======
 
 Vi gikk gjennom esken en gang til for å dobbeltsjekke om vi mangler Cobra Line Follower Sensor – 70151 – 1 – 1. Vi har hiitl ikke funnet den manglende delen.
 
