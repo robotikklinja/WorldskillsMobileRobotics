@@ -1,8 +1,6 @@
 # WorldskillsMobileRobotics
 Worldskills Mobile Robotics Shanghai 2022
 
----
-
 ## Arbeidsbeskrivelse
 I dette prosjektet skal vi lage en robot med deler fra Worldskills Mobile Robotics Shanghai 2022 og skal gjennomføre et digitalt møte ove zoom. Roboten skal kunne utføre forskjellige oppgaver. 
 
@@ -33,7 +31,7 @@ Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. D
 	* Endring: PING Ultrasonic Distance Sensor Bracket – 40238 – 1 – 2.
 
 * Sto: Cobra Line Follower Sensor – 70151 – 1 – 1.
-	* Endring: ingenting
+	* Endring: Fant ikke produktet
 
 ***
 
