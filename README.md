@@ -34,8 +34,7 @@ Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. D
 
 * Sto: Cobra Line Follower Sensor – 70151 – 1 – 1.
 	* Endring: ingenting
-=======
-## Logg
+
 
 ### 21.04.2021
 Vi lastet ned filene fra USB-brikken. 
@@ -50,5 +49,4 @@ Sander og Robin har jobbet med programmvar. Vi trengte et gruppe nummer, og pga 
 Eirik har jobbet med dokumentasjon og har jobbet med github.
 
 =======
-=======
-Vi gikk gjennom esken en gang til for å dobbeltsjekke om vi mangler Cobra Line Follower Sensor – 70151 – 1 – 1. Vi har hiitli ikke funnet den manglende delen.
+
